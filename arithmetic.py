@@ -5,22 +5,22 @@ a= 10
 b= 5
 
 print("\nAddition +")
-print(a+b)
+print(f"{a} + {b} = ", a+b)
 
 print("\nSubtraction -")
-print(a-b)
+print(f"{a} - {b} = ",a-b)
 
 print("\nMultiplication *")
-print(a*b)
+print(f"{a} * {b} = ",a*b)
 
 print("\nDivision /")
-print(a/b)
+print(f"{a} / {b} = ",a/b)
 
 print("\nFloor Division  //")
-print(a//b)
+print(f"{a} // {b} = ",a//b)
 
 print("\nModulus (remainder) %")
-print(a%b)
+print(f"{a} % {b} = ",a%b)
 
 print("\nExponentiation **")
-print(a**b)
+print(f"{a} ** {b} = ",a**b)
