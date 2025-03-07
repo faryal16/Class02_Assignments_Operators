@@ -2,7 +2,7 @@
 
 This repository contains an overview of Python operators, categorized into seven types, with clear explanations of their usage.
 
-## 1 Arithmetic Operators
+## 1_ Arithmetic Operators
 Arithmetic operators are used to perform basic mathematical calculations such as addition, subtraction, multiplication, division, modulus, exponentiation, and floor division.
 
 ### Operators:
@@ -14,7 +14,7 @@ Arithmetic operators are used to perform basic mathematical calculations such as
 - `**` (Exponentiation) – Raises a number to the power of another.
 - `//` (Floor Division) – Performs division and rounds down to the nearest whole number.
 
-## 2 Assignment Operators
+## 2_  Assignment Operators
 Assignment operators assign values to variables and modify them directly.
 
 ### Operators:
@@ -27,7 +27,7 @@ Assignment operators assign values to variables and modify them directly.
 - `**=` (Exponentiate and Assign) – Raises to power and assigns.
 - `//=` (Floor Divide and Assign) – Floor divides and assigns.
 
-## 3 Comparison Operators
+## 3_  Comparison Operators
 Comparison operators compare two values and return `True` or `False`.
 
 ### Operators:
@@ -38,7 +38,7 @@ Comparison operators compare two values and return `True` or `False`.
 - `>=` (Greater than or equal to) – Checks if one value is greater or equal.
 - `<=` (Less than or equal to) – Checks if one value is smaller or equal.
 
-## 4 Logical Operators
+## 4_  Logical Operators
 Logical operators are used to combine multiple conditions.
 
 ### Operators:
@@ -46,21 +46,21 @@ Logical operators are used to combine multiple conditions.
 - `or` – Returns `True` if at least one condition is `True`.
 - `not` – Reverses the boolean result (`True` becomes `False`, and vice versa).
 
-## 5⃣Identity Operators
+## 5_  Identity Operators
 Identity operators check whether two variables reference the same object in memory.
 
 ### Operators:
 - `is` – Returns `True` if both variables refer to the same object.
 - `is not` – Returns `True` if variables refer to different objects.
 
-## 6 Membership Operators
+## 6_ Membership Operators
 Membership operators check whether a value exists in a sequence (like a list, tuple, or string).
 
 ### Operators:
 - `in` – Returns `True` if the value is found in the sequence.
 - `not in` – Returns `True` if the value is NOT found in the sequence.
 
-## 7 Bitwise Operators
+## 7_ Bitwise Operators
 Bitwise operators work at the binary (bit-level) to perform operations.
 
 ### Operators:
